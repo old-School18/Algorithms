@@ -76,6 +76,8 @@ void primMST(int graph[V][V])
  
     // print the constructed MST
     printMST(parent, graph);
+
+  return;
 }
  
 // Driver code
